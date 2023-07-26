@@ -1,0 +1,21 @@
+//to manage college data
+//students data
+{
+    name,
+    roll number,
+    email,
+    course,
+    branch,
+    gender
+}
+//proffessor data
+{
+    name,
+    branch,
+    mail,
+    phonenumber,
+    gender
+}
+
+//from website we should add student and proffessor data
+//we should be able to see data
